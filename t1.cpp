@@ -8,6 +8,7 @@ int main()
     cin>>l;
     cout<<"Enter Child number: ";
     cin>>k;
+    
     int x=k;
     
     
