@@ -14,7 +14,6 @@ int main()
     {
         w=w*k;
     }
-    cout<<"Enter element: "<<endl;
     for(int i=0;i<w;i++)
     {
         cin>>a[i];
