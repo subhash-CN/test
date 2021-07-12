@@ -5,7 +5,6 @@ int main()
     int mini=100;
     int maxi=0;
     int a[20];
-    cout<<"Enter tree level: ";
     cin>>l;
     cout<<"Enter Child number: ";
     cin>>k;
