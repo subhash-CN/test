@@ -10,13 +10,11 @@ int main()
     cout<<"Enter Child number: ";
     cin>>k;
     int x=k;
-
     for(int j=0;j<(l-1);j++)
     {
         w=w*k;
     }
     cout<<"Enter element: "<<endl;
-
     for(int i=0;i<w;i++)
     {
         cin>>a[i];
